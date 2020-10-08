@@ -4,7 +4,7 @@ I'm ujlbu4, an Software Developer in Test love to automate systems where there i
 
 #### 👷 Check out what I'm currently working on or contributed to
 
-- [vas3k/vas3k.club](https://github.com/vas3k/vas3k.club) - No bullshit IT community with private membership (1 week ago)
+- [vas3k/vas3k.club](https://github.com/vas3k/vas3k.club) - No bullshit IT community with private membership (2 weeks ago)
 
 
 
@@ -21,10 +21,10 @@ I'm ujlbu4, an Software Developer in Test love to automate systems where there i
 
 #### 📜 My recent StackOverflow activities
 
-- [Answer by ujlbu4 for Reading CSV before appending to stop duplicates](https://stackoverflow.com/questions/64186212/reading-csv-before-appending-to-stop-duplicates/64187706#64187706) (4 days ago)
-- [Answer by ujlbu4 for Select latest record for each hour](https://stackoverflow.com/questions/64186687/select-latest-record-for-each-hour/64187022#64187022) (4 days ago)
-- [Answer by ujlbu4 for Trouble with django templating looping over a dict created from an xml response](https://stackoverflow.com/questions/64161818/trouble-with-django-templating-looping-over-a-dict-created-from-an-xml-response/64162206#64162206) (6 days ago)
-- [Answer by ujlbu4 for Display song with preview_url and track name and image in spotipy search method](https://stackoverflow.com/questions/64161467/display-song-with-preview-url-and-track-name-and-image-in-spotipy-search-method/64161909#64161909) (6 days ago)
+- [Answer by ujlbu4 for Reading CSV before appending to stop duplicates](https://stackoverflow.com/questions/64186212/reading-csv-before-appending-to-stop-duplicates/64187706#64187706) (5 days ago)
+- [Answer by ujlbu4 for Select latest record for each hour](https://stackoverflow.com/questions/64186687/select-latest-record-for-each-hour/64187022#64187022) (5 days ago)
+- [Answer by ujlbu4 for Trouble with django templating looping over a dict created from an xml response](https://stackoverflow.com/questions/64161818/trouble-with-django-templating-looping-over-a-dict-created-from-an-xml-response/64162206#64162206) (1 week ago)
+- [Answer by ujlbu4 for Display song with preview_url and track name and image in spotipy search method](https://stackoverflow.com/questions/64161467/display-song-with-preview-url-and-track-name-and-image-in-spotipy-search-method/64161909#64161909) (1 week ago)
 - [Answer by ujlbu4 for Django do not reload fixture for some test cases](https://stackoverflow.com/questions/64124441/django-do-not-reload-fixture-for-some-test-cases/64128650#64128650) (1 week ago)
 
 #### 📓 Helpful Gists I wrote
